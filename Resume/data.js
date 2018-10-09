@@ -5,14 +5,14 @@ document.getElementsByTagName('body')[0].appendChild(sc);
 
 var data = {
     pageMeta: {
-        title: 'Soumya Padhee\'s resume',
+        title: 'Rajesh Kethineni\'s resume',
         icon: false,
         jsLibrary: ["https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"],
         cssLibrary: ["https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css","https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" ]
     },
 
     pageHeader: {
-        title: "Soumya Padhee's resume",
+        title: "Rajesh Kethineni's resume",
         background: "",
         onclick: "window.location.reload()"
     },
